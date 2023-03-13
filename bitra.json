@@ -1,1 +1,8 @@
-{"phone":"bitra","download_url":"https://sourceforge.net/projects/bananadroid/files/bitra/BananaDroid-Tanduk-bitra-OFFICIAL-20230312-CoreGApps.zip/download","changelog_source":"https://telegra.ph/BananaDroid-March-Released-03-11","changelog_device":"https://github.com/Xtended-Devices/DevicesChangelog/raw/xt/bitra.txt"}
+{
+    "file": "bitra",
+    "download_url": "https://sourceforge.net/projects/bananadroid/files/bitra/BananaDroid-Tanduk-bitra-OFFICIAL-20230312-CoreGApps.zip/download",
+    "changelog_source": "https://github.com/Xtended-Devices/DevicesChangelog/raw/xt/bitra.txt",
+    "changelog_device": "https://raw.githubusercontent.com/Xtended-Devices/DevicesChangelog/xt/bitra.txt",
+    "version": "BananaDroid-Tanduk-bitra-OFFICIAL-20230312-CoreGApps",
+    "photo": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61iV7dZDsQL._AC_SL1500_.jpg"
+}
